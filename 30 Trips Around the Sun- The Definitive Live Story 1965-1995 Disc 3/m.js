@@ -1,0 +1,9 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Shakedown Street [Live at Cornell University, Ithaca].mp3";		
+f[2]	= "02 Bird Song [Live at Manor Downs, Austin].mp3";		
+f[3]	= "03 My Brother Esau [Live at the Centrum, Worchester].mp3";		
+f[4]	= "04 Feel Like a Stranger [Live at Augusta Civic Center, Augusta].mp3";		
+f[5]	= "05 Let It Grow [Live at River Bend Music Center, Cincinnati].mp3";		
+f[6]	= "06 Comes a Time [Live at Cal Expo Amphitheatre, Sacramento].mp3";		
+f[7]	= "07 Morning Dew [Live at Madison Square Garden, New York].mp3";		
