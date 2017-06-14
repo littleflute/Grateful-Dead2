@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Caution (Do Not Stop on Tracks) [Live at Golden State Recorders, San Fr.mp3";		
+f[2]	= "02 Cream Puff War [Live at Fillmore Auditorium, San Francisco].mp3";		
+f[3]	= "03 Viola Lee Blues [Live at Shrine Exhibition Hall, Los Angeles].mp3";		
+f[4]	= "04 Dark Star [Live at Greek Theater, Berkeley].mp3";		
+f[5]	= "05 Doin' That Rag [Live at Dream Bowl, Vallejo].mp3";		
+f[6]	= "06 Dancing in the Street [Live at Winterland, San Francisco].mp3";		
+f[7]	= "07 Ain't It Crazy (The Rub) [Live at Fox Theater, St. Louis].mp3";		
+f[8]	= "08 Tomorrow Is Forever [Live at the Palace Theater, Waterbury].mp3";		
+f[9]	= "09 Here Comes Sunshine [Live From San Diego Sports Arena].mp3";		
