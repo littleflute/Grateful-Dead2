@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Introductions.mp3";		
+f[2]	= "02 Promised Land.mp3";		
+f[3]	= "03 Sugaree.mp3";		
+f[4]	= "04 Me and My Uncle.mp3";		
+f[5]	= "05 Deal.mp3";		
+f[6]	= "06 Black Throated Wind.mp3";		
+f[7]	= "07 China Cat Sunflower.mp3";		
+f[8]	= "08 I Know You Rider.mp3";		
+f[9]	= "09 Mexicali Blues.mp3";		
+f[10]	= "10 Bertha.mp3";		
