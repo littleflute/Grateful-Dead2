@@ -1,0 +1,9 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Uncle John's Band [Live From Parc des Expositions, Dijon, France].mp3";		
+f[2]	= "02 Franklin's Tower [Live From Lindley Meadows, Golden Gate Park, San Fran.mp3";		
+f[3]	= "03 Scarlet Begonias [Live at Cobo Hall, Detroit].mp3";		
+f[4]	= "04 Estimated Prophet [Live at Capital Theatre, Passaic].mp3";		
+f[5]	= "05 Samson and Delilah [Live at Providence Civic Center, Providence].mp3";		
+f[6]	= "06 Lost Sailor]Saint of Circumstance [Live at Cape Cod Coliseum, South Yar.mp3";		
+f[7]	= "07 Deep Elem Blues [Live at Lakeland Civic Center, Lakeland].mp3";		
